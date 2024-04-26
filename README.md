@@ -5,5 +5,3 @@ El presente trabajo fué realizado como parte de la materia "*Sintáxis y semán
 <p align="center">
   <img src="https://github.com/fedecarracedo/SSL-Federico-Carracedo-2023/assets/125300618/9b696d08-c0b7-4b65-8db4-9b60acbe609b" alt="Sublime's custom image"/>
 </p>
-
-![image](https://github.com/fedecarracedo/SSL-Federico-Carracedo-2023/assets/125300618/9b696d08-c0b7-4b65-8db4-9b60acbe609b)
